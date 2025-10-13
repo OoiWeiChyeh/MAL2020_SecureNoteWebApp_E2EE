@@ -1,6 +1,6 @@
-# Secure Note Sharing App (Android, E2EE)
+# Secure Note Sharing App (Web, E2EE)
 
-An Android-based application for **secure note creation and sharing** using **End-to-End Encryption (E2EE)**. This project is developed as part of the *Computing Group Project (MAL2020)* to explore how strong cryptography can be combined with usability for real-world adoption.
+An Web-based application for **secure note creation and sharing** using **End-to-End Encryption (E2EE)**. This project is developed as part of the *Computing Group Project (MAL2020)* to explore how strong cryptography can be combined with usability for real-world adoption.
 
 ## 🔐 Features
 
