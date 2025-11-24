@@ -1,4 +1,4 @@
-# Secure Note Sharing App (Web, E2EE)
+# Secure File Sharing App (Web, E2EE)
 
 An Web-based application for **secure note creation and sharing** using **End-to-End Encryption (E2EE)**. This project is developed as part of the *Computing Group Project (MAL2020)* to explore how strong cryptography can be combined with usability for real-world adoption.
 
