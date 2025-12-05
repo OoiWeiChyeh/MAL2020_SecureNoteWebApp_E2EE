@@ -4,7 +4,25 @@ Secure exam paper management with role-based workflow and version control.
 
 ---
 
-## 🚀 Quick Start
+## ⚡ Quick Test (No Setup Required!)
+
+**Want to test the system right away?** Visit the live demo:
+
+🔗 **https://file-share-f8260.web.app/login**
+
+### Test Credentials:
+
+| Email | Password | Role |
+|-------|----------|------|
+| `examunit@admin.com` | `ExamUnit2025!` | Exam Unit (Admin) |
+| `Lecture1@test.com` | `test123456` | Lecturer |
+| `Hos1@test.com` | `test123456` | HOS (Head of School) |
+
+**Note:** More test accounts available (see [Test Accounts](#-test-accounts) section below)
+
+---
+
+## 🚀 Quick Start (Local Development)
 
 ```bash
 # 1. Clone & Install
@@ -156,6 +174,8 @@ node seed-simple.js
 
 ## 👥 Test Accounts
 
+### **For Local Development (Emulator):**
+
 All passwords: `test123456`
 
 | Email | Role |
@@ -165,6 +185,10 @@ All passwords: `test123456`
 | lecturer1@test.com | Lecturer (CS) |
 
 See [TEAM_SETUP.md](./TEAM_SETUP.md) for full list.
+
+### **For Hosted Demo:**
+
+See [Quick Test](#-quick-test-no-setup-required) section above.
 
 ---
 
